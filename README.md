@@ -86,4 +86,4 @@ Bot is live in the CPL server with 300+ members.
 
 ---
 
-*Built by Hawk*
+*Built by Zylo, description by Claude*
